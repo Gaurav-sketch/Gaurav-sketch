@@ -26,7 +26,7 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 📫 How to reach me:
 
-[Email](christina@christinakopecky.com) [LinkedIn](https://www.linkedin.com/in/cmvnk)
+[Email](gkkumar019@gmail.com)  [](https://www.linkedin.com/in/gaurav-kumar-80153788/)
 
 
 
