@@ -1,5 +1,10 @@
 ### Hi there 👋
-#I am an Engineering graduate with Master's degree in Data and Computational Science from University College Dublin.
+I am an Engineering graduate with Master's degree in Data and Computational Science from University College Dublin.I come with an extensive experience of working with different technologies including Data Science, Machine Learning ,Deep Learning , Business Analysis , Manual Testing and Automation Testing.
+
+In retrospect, I have worked with Accenture as a Test Engineering Senior Analyst for 3 Years and as a Data Analyst for one Year.
+
+Presently, I am looking for a full-time role in Data Science, Machine Learning or analytics field.
+
 <!--
 **Gaurav-sketch/Gaurav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
