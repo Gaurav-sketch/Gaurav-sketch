@@ -24,6 +24,11 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Computational Science**: Scientific programming (ICHEC), High Performance Computing (ICHEC) 
 
+📫 How to reach me:
+[Email](christina@christinakopecky.com) [LinkedIn](https://www.linkedin.com/in/cmvnk)
+
+
+
 <!--
 **Gaurav-sketch/Gaurav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
