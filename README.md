@@ -6,7 +6,7 @@ In retrospect, I have worked with Accenture as a Test Engineering Senior Analyst
 Presently, I am looking for a full-time role in Data Science, Machine Learning or analytics field.
 
 ### Skill I am good at ⭐️
-Programming Languages: Python, C, R, SQL, Mathematica 11.3.
+# Programming Languages: Python, C, R, SQL, Mathematica 11.3.
 
 Software: Tableau, R,GIT,Microsoft Office, Docker, Kubernetes
 
