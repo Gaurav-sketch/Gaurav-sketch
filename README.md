@@ -7,11 +7,17 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Skill I am good at ⭐️
 Programming Languages: Python, C, R, SQL, Mathematica 11.3.
+
 Software: Tableau, R,GIT,Microsoft Office, Docker, Kubernetes
+
 Operating System: Microsoft Windows, Linux ,Ubuntu
+
 Databases: SQLite, MongoDB , MySQL
+
 Framework/Tools: Flask , Jira ,HP-ALM,UFT, Selenium, Postman
+
 Business Analytics Skills: Requirements Management, System Analysis, SDLC, Telecom, Agile.
+
 Cloud Platform: AWS , Heroku
 
 Data Analysis: Data Programming with R, Mathematica for Research, Applied Matrix Theory, Predictive Analytics I and Data Programming with Python ,Transferable Skills, Machine Learning and AI, Statistical Machine Learning, Multivariate Analysis, Bayesian Analysis, Uncertainty Quantification, Stochastic Models, Advance Data Programming with R, Data programming with SAS, Stat Network Analysis.
