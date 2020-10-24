@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+#I am an Engineering graduate with Master's degree in Data and Computational Science from University College Dublin.
 <!--
 **Gaurav-sketch/Gaurav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#I am an Engineering graduate with Master's degree in Data and Computational Science from University College Dublin.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
