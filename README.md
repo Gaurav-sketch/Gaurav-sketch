@@ -26,7 +26,7 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />]<a href="mailto:gkkumar019@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:gkkumar019@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" / ></a>
  
 
 <!--
