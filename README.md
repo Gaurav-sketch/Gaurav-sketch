@@ -26,9 +26,9 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 📫 How to reach me:
 
-[https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white](gkkumar019@gmail.com)  [  ](https://www.linkedin.com/in/gaurav-kumar-80153788/)
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](gkkumar019@gmail.com)  [  ](https://www.linkedin.com/in/gaurav-kumar-80153788/)
 
-
+ 
 
 <!--
 **Gaurav-sketch/Gaurav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
