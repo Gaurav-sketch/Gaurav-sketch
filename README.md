@@ -5,7 +5,7 @@ In retrospect, I have 4+ years of work experience wherein I worked with Accentur
 
 Presently, I am looking for a full-time role in Data Science, Machine Learning or analytics field.
 
-### Skill I am good at ⭐️
+### Skills I am good at ⭐️
 **Programming Languages**: Python, C, R, SQL, Mathematica 11.3.
 
 **Software**: Tableau, R,GIT,Microsoft Office, Docker, Kubernetes
