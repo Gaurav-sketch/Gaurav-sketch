@@ -26,7 +26,7 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 📫 How to reach me:
 
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />(https://www.linkedin.com/in/gaurav-kumar-80153788/)
+[<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />](https://www.linkedin.com/in/gaurav-kumar-80153788/)
  
 
 <!--
