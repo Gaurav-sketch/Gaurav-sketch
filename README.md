@@ -27,12 +27,16 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 ### My Publications ✒️
 [VOTING PATTERN USING LATENT CLASS ANALYSIS](https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/)
 
+[DRAG REDUCTION ANALYSIS USING ANSYS](http://www.ijisr.issr-journals.org/abstract.php?article=IJISR-15-104-15)
+
+
 
 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaurav-kumar-80153788/)
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gkkumar019@gmail.com)
  
+
 
 <!--
 **Gaurav-sketch/Gaurav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
