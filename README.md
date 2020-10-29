@@ -24,9 +24,8 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Computational Science**: Scientific programming (ICHEC), High Performance Computing (ICHEC) 
 
-
-### My Blogs ✒️
-<a target="_blank" href="https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/"><img src="https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/"> 
+### My Publications ✒️
+[VOTING PATTERN USING LATENT CLASS ANALYSIS](https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/)
 
 
 📫 How to reach me:
