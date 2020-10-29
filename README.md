@@ -24,6 +24,11 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Computational Science**: Scientific programming (ICHEC), High Performance Computing (ICHEC) 
 
+
+### My Blogs ✒️
+<a target="_blank" href="https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/"><img src="https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/"> 
+
+
 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaurav-kumar-80153788/)
