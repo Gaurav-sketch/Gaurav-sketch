@@ -3,6 +3,8 @@ I am an Engineering graduate with Master's degree in Data and Computational Scie
 
 In retrospect, I have 4+ years of work experience wherein I worked with Accenture as a Test Engineering Senior Analyst for 3 Years and kinda Data Analyst for more than a Year.
 
+*Author at Analytics India Magazine*
+
 Presently, I am looking for a full-time role in Data Science, Machine Learning or analytics field.
 
 ### Skills I am good at ⭐️
