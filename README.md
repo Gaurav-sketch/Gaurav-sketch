@@ -27,9 +27,11 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 **Computational Science**: Scientific programming (ICHEC), High Performance Computing (ICHEC) 
 
 ### My Publications ✒️
-[VOTING PATTERN USING LATENT CLASS ANALYSIS](https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/)
+<img src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg" width="30" height="25"/>[VOTING PATTERN USING LATENT CLASS ANALYSIS](https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/)
 
-[DRAG REDUCTION ANALYSIS USING ANSYS](http://www.ijisr.issr-journals.org/abstract.php?article=IJISR-15-104-15)
+<img src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg" width="30" height="25" />[Survival Analysis in R](https://analyticsindiamag.com/how-to-do-survival-analysis-in-r/)
+
+<img src="http://www.ijisr.issr-journals.org/docs/logo.png"  width="30" height="25" />[DRAG REDUCTION ANALYSIS USING ANSYS](http://www.ijisr.issr-journals.org/abstract.php?article=IJISR-15-104-15)
 
 
 
