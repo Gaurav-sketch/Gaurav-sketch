@@ -29,7 +29,7 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Certifications 📰
 [<img src = "https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg" width="50" height="40" />](https://badgr.com/public/assertions/3X_lGR-iSDiccmWF5DvUOQ)
-
+[<img src = "https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="50" height="40" />](https://www.coursera.org/account/accomplishments/verify/4BAQJFA27B7N)
 
 
 ### My Publications ✒️
