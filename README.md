@@ -30,9 +30,10 @@ Presently, I am looking for a full-time role in Data Science, Machine Learning o
 ### Certifications 📰
 [<img src = "https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg" width="50" height="40" />](https://badgr.com/public/assertions/3X_lGR-iSDiccmWF5DvUOQ)
 [<img src = "https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="50" height="40" />](https://www.coursera.org/account/accomplishments/verify/4BAQJFA27B7N)
+[<img src= "https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="50" height="40" />](https://www.hackerrank.com/gkkumar019?hr_r=1)
 
 
-### My Publications ✒️
+### My Publications
 <img src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg" width="30" height="25"/>[VOTING PATTERN USING LATENT CLASS ANALYSIS](https://analyticsindiamag.com/latent-class-analysis-voting-patterns-in-32nd-dail-eireann/)
 
 <img src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg" width="30" height="25" />[Survival Analysis in R](https://analyticsindiamag.com/how-to-do-survival-analysis-in-r/)
