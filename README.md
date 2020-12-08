@@ -5,7 +5,7 @@ In retrospect, I have 4+ years of work experience wherein I worked with Accentur
 
 *Author at Analytics India Magazine*.
 
-Presently, I am looking for a full-time role in Data Science, Machine Learning or analytics field.
+Presently, I am looking for a full-time role in Quality Assurance ,Data Science, Machine Learning or analytics field.
 
 ### Skills I am good at ⭐️
 **Programming Languages**: Python, C, R, SQL, Mathematica 11.3.
