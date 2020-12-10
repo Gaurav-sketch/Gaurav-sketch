@@ -20,6 +20,8 @@ Presently, I am looking for a full-time role in Quality Assurance ,Data Science,
 
 **Business Analytics Skills**: Requirements Management, System Analysis, SDLC, Telecom, Agile.
 
+**Automation Tools**: Selenium WebDriver(Python), Postman(API Testing), JMeter, Jenkins ,Test NG , Appium
+
 **Cloud Platform**: AWS , Heroku
 
 **Data Analysis**: Data Programming with R, Mathematica for Research, Applied Matrix Theory, Predictive Analytics I and Data Programming with Python ,Transferable Skills, Machine Learning and AI, Statistical Machine Learning, Multivariate Analysis, Bayesian Analysis, Uncertainty Quantification, Stochastic Models, Advance Data Programming with R, Data programming with SAS, Stat Network Analysis.
