@@ -8,19 +8,18 @@ In retrospect, I have 4+ years of work experience wherein I worked with Accentur
 Presently, I am looking for a full-time role in Quality Assurance ,Data Science, Machine Learning or analytics field.
 
 ### Skills I am good at ⭐️
-**Programming Languages**: Python, C, R, SQL, Mathematica 11.3.
+**Programming Languages**: Python, JAVA, R, SQL, SAS.
 
-**Software**: Tableau, R,GIT,Microsoft Office, Docker, Kubernetes
+**Software**: Tableau, R,GIT,Microsoft Office, Docker.
+**Operating System**: Microsoft Windows, Linux.
 
-**Operating System**: Microsoft Windows, Linux ,Ubuntu
+**Databases**: MongoDB , MySQL.
 
-**Databases**: SQLite, MongoDB , MySQL
-
-**Framework/Tools**: Flask , Jira ,HP-ALM,UFT, Selenium, Postman
+**Framework/Tools**: Flask , Jira ,HP-ALM,Selenium, Postman
 
 **Business Analytics Skills**: Requirements Management, System Analysis, SDLC, Telecom, Agile.
 
-**Automation Tools**: Selenium WebDriver(Python), Postman(API Testing), JMeter, Jenkins ,Test NG , Appium
+**Automation Tools**: Selenium WebDriver(Python), Postman(API Testing), JMeter, Jenkins ,Test NG .
 
 **Cloud Platform**: AWS , Heroku
 
