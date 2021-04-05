@@ -11,6 +11,7 @@ Presently, I am looking for a full-time role in Quality Assurance ,Data Science,
 **Programming Languages**: Python, JAVA, R, SQL, SAS.
 
 **Software**: Tableau, R,GIT,Microsoft Office, Docker.
+
 **Operating System**: Microsoft Windows, Linux.
 
 **Databases**: MongoDB , MySQL.
