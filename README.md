@@ -15,7 +15,7 @@ Presently, I am looking for a full-time role in Quality Assurance ,Data Science,
 
 **Databases**: MongoDB , MySQL.
 
-**Framework/Tools**: Flask , Jira ,HP-ALM,Selenium, Postman
+**Framework/Tools**: TestNG Framework,Cucumber(BDD) ,Flask , Jira ,HP-ALM,Selenium, Postman
 
 **Business Analytics Skills**: Requirements Management, System Analysis, SDLC, Telecom, Agile.
 
