@@ -1,14 +1,14 @@
 ### Hi there 👋
 I am an Engineering graduate with Master's degree in Data and Computational Science from University College Dublin.I come with an extensive experience of working with different technologies including Data Science, Machine Learning ,Deep Learning , Business Analysis , Manual Testing and Automation Testing.
 
-In retrospect, I have 4+ years of work experience wherein I worked with Accenture as a Test Engineering Senior Analyst .
+In retrospect, I have 7+ years of work experience wherein I worked with Accenture as a Senior Test Engineering Analyst , with Intellisense as Test Automation Engineer and with Fidelity Investments as Software Quality Engineer.
 
 *Author at Analytics India Magazine*.
 
 Presently, I am looking for a full-time role in Quality Assurance ,Data Science, Machine Learning or analytics field.
 
 ### Skills I am good at ⭐️
-**Programming Languages**: Python, JAVA, R, SQL, SAS.
+**Programming Languages**: Python, JAVA, Typescript, SQL.
 
 **Software**: Tableau, R,GIT,Microsoft Office, Docker.
 
